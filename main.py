@@ -1,4 +1,9 @@
 
+def foo(x):
+	"""
+	returns x squared
+	"""
+	return x**2
 
 
 def main():
